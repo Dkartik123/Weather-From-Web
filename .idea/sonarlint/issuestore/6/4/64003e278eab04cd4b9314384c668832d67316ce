@@ -1,0 +1,18 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¶Å×êşÿÿÿÿ8Å²Ò‚2
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ç²Ò‚2
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "page".(äˆ›—şÿÿÿÿ8Ç²Ò‚2
+M
+java:S1874"+Remove this use of "URL"; it is deprecated.(äˆ›—şÿÿÿÿ8×²Ò‚2
+s
+java:S34570"Q%n should be used in place of \n to produce the platform-specific line separator.(È£ÉØúÿÿÿÿ8Ú²Ò‚2
+L	java:S1060"+Replace this use of System.out by a logger.(È£ÉØúÿÿÿÿ8Ú²Ò‚2
+n
+java:S3457@"Q%n should be used in place of \n to produce the platform-specific line separator.(µ®½8İ²Ò‚2
+G	java:S106@"+Replace this use of System.out by a logger.(µ®½8İ²Ò‚2
+L	java:S106B"+Replace this use of System.out by a logger.(Ğó“Âşÿÿÿÿ8İ²Ò‚2
+m
+java:S3457F"Q%n should be used in place of \n to produce the platform-specific line separator.(‰¥öD8İ²Ò‚2
+F	java:S106F"+Replace this use of System.out by a logger.(‰¥öD8İ²Ò‚2
+L	java:S106I"+Replace this use of System.out by a logger.(Ğó“Âşÿÿÿÿ8Ş²Ò‚2
